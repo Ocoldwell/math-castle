@@ -1,1 +1,4 @@
 # castle-game
+This was a project I helped make with a group of 3 other developers from around the globe for the first The Odin Project game-jam.
+
+I took more of a project management role in the development of this, I'd just started a new job but I'm really proud of the outcome as we came in 4th in the competition out of 37 entries. This was good practice in working asynchronously, and setting up workflows, automatic deployment testing and generally communicating with a team. My main code contribution to this particular project was the question generation logic, and high level discussions in our private Discord about the design and how we were going to implement areas of the game and potential issues we would run into, as well setting up basic git workflow deployment testing that utilised our webpack bundling and ensured our builds were working when deployed to our gh-pages set-up.
